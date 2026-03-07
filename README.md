@@ -230,3 +230,5 @@ This analysis provides a comprehensive view of Netflix's content and can help in
 ## Author - Abhisek Nayak
 
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhisek-nayak-88054a362/)
